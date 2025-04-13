@@ -14,8 +14,8 @@ This is my personal portfolio website created using **HTML**, **CSS**, and **Jav
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (Vanilla JS)
 - VS Code (for development)
 - Git & GitHub (for version control and hosting)
