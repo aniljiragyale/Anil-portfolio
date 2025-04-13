@@ -21,4 +21,19 @@ This is my personal portfolio website created using **HTML**, **CSS**, and **Jav
 - Git & GitHub (for version control and hosting)
 
 ## 📂 Project Structure
+portfolio-website/ │ ├── index.html ├── about.html ├── contact.html ├── style.css ├── script.js ├── /assets │ ├── /images │ ├── /css │ └── /js └── README.md
+
+
+## 📷 Live Preview
+
+👉 [View Website](aniljiragyale-portfolio01.netlify.app) *(update with your GitHub Pages link)*
+
+## 📧 Contact
+
+If you'd like to get in touch, feel free to reach out through the contact form on the website or email me directly at **aniljiragyale213@gmail.com**.
+
+---
+
+
+
 
